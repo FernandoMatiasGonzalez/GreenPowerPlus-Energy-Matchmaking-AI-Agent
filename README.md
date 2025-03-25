@@ -17,7 +17,7 @@ While currently operating on deterministic rules, the system establishes the fou
 - Natural language input (LLM-powered)
 - Structured data extraction
 - Vendor matching based on rule logic
-- React based user interface
+- React-based user interface
 - Flask backend with PostgreSQL
 
 ---
