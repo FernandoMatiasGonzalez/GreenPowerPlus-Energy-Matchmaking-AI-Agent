@@ -18,7 +18,7 @@ While currently operating on deterministic rules, the system establishes the fou
 - Structured data extraction
 - Vendor matching based on rule logic
 - Simple UI built in React
-- Flask backend with Postgres
+- Flask backend with PostgreSQL
 
 ---
 
