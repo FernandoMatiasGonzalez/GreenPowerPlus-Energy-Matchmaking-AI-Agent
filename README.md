@@ -1,6 +1,6 @@
 # GP+ | AI-Powered Clean Energy Matchmaking (Prototype)
 
-This is a public-facing prototype for the **GP+** platform, developed by **Fernando Matías González (Co-founder & CTO)**.
+This is a public-facing prototype for the **GP+** platform.
 
 ---
 
