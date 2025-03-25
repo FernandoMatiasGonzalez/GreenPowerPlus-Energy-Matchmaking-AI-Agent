@@ -6,7 +6,7 @@ This is a public-facing prototype for the **Green Power Plus (GP+)** platform.
 
 ### Project Overview
 
-**GP+** is a rule-based AI agent that interprets natural language queries, extracts structured parameters, and dynamically matches users with clean energy vendors within a scalable, AI-assisted framework. It leverages **predefined logic and an LLM-powered** engine to process user input and return structured, tailored results based on criteria such as **capacity, financing, certifications, battery storage, location**, and **installation timeline**.
+**GP+** is a rule-based AI agent that interprets natural language queries, extracts structured parameters, and dynamically matches users with clean energy vendors within a scalable, AI-assisted framework. It leverages **predefined logic and an LLM-powered** engine to process user input and return tailored results based **capacity, financing, certifications, battery storage, location**, and **installation timeline**.
 
 While currently operating on deterministic rules, the system establishes the foundation for future **learning agents**, by structuring user interactions, vendor data, and decision logic for dynamic adaptation and reinforcement.
 
@@ -17,7 +17,7 @@ While currently operating on deterministic rules, the system establishes the fou
 - Natural language input (LLM-powered)
 - Structured data extraction
 - Vendor matching based on rule logic
-- Simple UI built in React
+- React based user interface
 - Flask backend with PostgreSQL
 
 ---
