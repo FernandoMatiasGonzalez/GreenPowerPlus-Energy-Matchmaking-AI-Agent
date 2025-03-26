@@ -1,6 +1,6 @@
 # GP+ | AI-Powered Clean Energy Matchmaking (Prototype)
 
-This is a public-facing prototype for the **Green Power Plus (GP+)** platform. **GP+** leverages AI to transform B2B access to energy components, projects and financing.
+This is a public-facing prototype for the **Green Power Plus (GP+)** platform. **GP+** leverages AI to transform B2B access to clean energy components, projects and financing.
 
 ---
 
