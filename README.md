@@ -35,8 +35,9 @@ The system establishes the foundation for future **learning agents**, by structu
 🚀 [Try the live demo](https://greenpowerplus.replit.app)
 
 💡 Example queries:
-- "I need solar panels with battery storage in Veneto"
+- "I need photovoltaics with battery storage in Veneto"
 - "150 kW PV in Lombardy with financing"
+- "Solar panels in Tuscany with IEC certifications"
   
 ---
 
