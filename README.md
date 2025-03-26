@@ -37,7 +37,7 @@ While currently operating on deterministic rules, the system establishes the fou
 💡 Example queries:
 - "I need 50 kW photovoltaics in Veneto"
 - "150 kW PV in Lombardy with financing"
-- "Need solar panels with battery storage in Tuscany"
+- "Solar panels with battery storage in Tuscany"
 
 ---
 
