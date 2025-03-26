@@ -34,9 +34,10 @@ While currently operating on deterministic rules, the system establishes the fou
 
 🚀 [Try the live demo](https://greenpowerplus.replit.app)
 
-💡 Example queries:  
-- "150 kW PV in Lombardy with financing"  
-- "Need solar panels with battery storage in Veneto"
+💡 Example queries:
+- "I need 50 kW photovoltaics in Veneto"
+- "150 kW PV in Lombardy with financing"
+- "Need solar panels with battery storage in Tuscany"
 
 ---
 
