@@ -32,7 +32,11 @@ While currently operating on deterministic rules, the system establishes the fou
 
 ### Live Demo
 
-[Try the live demo](https://greenpowerplus.replit.app)
+🚀 [Try the live demo](https://greenpowerplus.replit.app)
+
+💡 Example queries:  
+- "150 kW PV in Lombardy with financing"  
+- "Need solar panels with battery storage in Veneto"
 
 ---
 
