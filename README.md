@@ -17,7 +17,7 @@ The system establishes the foundation for future **learning agents**, by structu
 - Natural language input (LLM-powered)
 - Structured data extraction
 - Vendor matching based on rule logic
-- React-based user interface
+- React-based user interface with Tailwind CSS
 - Flask backend with PostgreSQL
 
 ---
