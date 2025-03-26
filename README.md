@@ -10,6 +10,8 @@ This is a public-facing prototype for the **Green Power Plus (GP+)** platform.
 
 While currently operating on deterministic rules, the system establishes the foundation for future **learning agents**, by structuring user interactions, vendor data, and decision logic for dynamic adaptation and reinforcement.
 
+**GP+** leverages AI to transform B2B access to energy components, projects and financing. GP+ is a GenAI-based chat to find clean energy projects and funding.
+
 ---
 
 ### Key Features (Prototype Phase)
