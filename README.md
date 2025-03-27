@@ -41,7 +41,7 @@ The system establishes the foundation for future **learning agents**, by structu
 
 🧾 **Output**:
 
-The system returns the top three quotes with a comparison dashboard to support decision-making.
+The system returns the three most competitive quotes, along with a tailored comparison dashboard to support decision-making.
 
 ---
 
