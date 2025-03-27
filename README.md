@@ -37,7 +37,7 @@ The system establishes the foundation for future **learning agents**, by structu
 💡 Example queries:
 - "I need photovoltaics with battery storage in Veneto"
 - "150 kW PV in Lombardy with financing"
-- "Solar panels in Tuscany with IEC certifications"
+- "Solar panels in Tuscany with IEC 61215 certification"
   
 ---
 
