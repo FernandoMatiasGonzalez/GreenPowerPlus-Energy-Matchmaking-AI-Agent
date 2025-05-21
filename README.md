@@ -35,6 +35,7 @@ The system establishes the foundation for future **learning agents**, by structu
 🚀 [Try the live demo](https://greenpowerplus-ai.vercel.app/)
 
 💡 Example queries:
+- "8 kW in Veneto"
 - "I need photovoltaics in Veneto, with battery storage"
 - "150 kW PV in Lombardy with financing"
 - "Solar panels in Tuscany with IEC 61215 certification"
